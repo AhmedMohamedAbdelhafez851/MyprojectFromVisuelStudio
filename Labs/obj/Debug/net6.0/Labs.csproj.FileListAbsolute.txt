@@ -1,0 +1,213 @@
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\appsettings.Development.json
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\appsettings.json
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.staticwebassets.runtime.json
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.exe
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.deps.json
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.runtimeconfig.json
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.pdb
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Humanizer.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.AssemblyReference.cache
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.AssemblyInfoInputs.cache
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.AssemblyInfo.cs
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.CoreCompileInputs.cache
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.MvcApplicationPartsAssemblyInfo.cache
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.RazorAssemblyInfo.cache
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.RazorAssemblyInfo.cs
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\scopedcss\bundle\Labs.styles.css
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\scopedcss\projectbundle\Labs.bundle.scp.css
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.CopyComplete
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.dll
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\refint\Labs.dll
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.pdb
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.genruntimeconfig.cache
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\ref\Labs.dll
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.Resources.ResAdmin.resources
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.Resources.ResGeneral.resources
+C:\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.GenerateResource.cache
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\appsettings.Development.json
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\appsettings.json
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.staticwebassets.runtime.json
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.exe
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.deps.json
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.runtimeconfig.json
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Labs.pdb
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Humanizer.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Disk C\Project asp\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.AssemblyReference.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.resources.ResAdmin.resources
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.resources.ResGeneral.resources
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.GenerateResource.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.AssemblyInfoInputs.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.AssemblyInfo.cs
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.CoreCompileInputs.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.MvcApplicationPartsAssemblyInfo.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.RazorAssemblyInfo.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.RazorAssemblyInfo.cs
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\scopedcss\bundle\Labs.styles.css
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\scopedcss\projectbundle\Labs.bundle.scp.css
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.csproj.CopyComplete
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.dll
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\refint\Labs.dll
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.pdb
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\Labs.genruntimeconfig.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\ref\Labs.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\appsettings.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.staticwebassets.runtime.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.exe
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.pdb
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.resources.ResAdmin.resources
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.resources.ResGeneral.resources
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.RazorAssemblyInfo.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.RazorAssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\scopedcss\bundle\Labs.styles.css
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\scopedcss\projectbundle\Labs.bundle.scp.css
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.csproj.CopyComplete
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\refint\Labs.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.pdb
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\Labs.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\obj\Debug\net6.0\ref\Labs.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\libman.json
+C:\Users\ahmed\OneDrive\Desktop\Labs\Labs\bin\Debug\net6.0\Labs.xml

@@ -1,0 +1,11 @@
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.csproj.AssemblyReference.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.resources.ResAdmin.resources
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.resources.ResGeneral.resources
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.csproj.GenerateResource.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.AssemblyInfo.cs
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.RazorAssemblyInfo.cache
+C:\Disk C\Project asp\Labs\Labs\obj\Debug\net6.0\E-Commerce.RazorAssemblyInfo.cs
